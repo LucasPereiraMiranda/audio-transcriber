@@ -30,3 +30,13 @@ def handle_audio_transcription(file_path: str, language: str = "pt-BR") -> str |
 
     return None
 
+
+if __name__ == "__main__":
+    mp3_file_path = "./audio.mp3"
+    language = "pt-BR"
+    transcription = handle_audio_transcription(mp3_file_path, language)
+
+    if transcription:
+        logging.info(f"Transcription output:\n{transcription}")
+    else:
+        logging.warning("Transcription failed.")
