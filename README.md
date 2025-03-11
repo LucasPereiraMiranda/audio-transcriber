@@ -36,3 +36,7 @@ The analysis is being performed with the following technologies:
 - [Python3](https://www.python.org/)
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
