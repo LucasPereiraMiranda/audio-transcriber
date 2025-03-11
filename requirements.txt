@@ -1,0 +1,9 @@
+ffmpeg-python==0.2.0
+future==1.0.0
+iniconfig==2.0.0
+packaging==24.2
+pluggy==1.5.0
+pydub==0.25.1
+pytest==8.3.5
+SpeechRecognition==3.14.1
+typing_extensions==4.12.2
