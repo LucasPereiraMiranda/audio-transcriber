@@ -29,3 +29,10 @@ For analysis, we can input an MP3 file and receive the transcribed text in the t
   <img src=".github/img/execution-preview.png" alt="Execution preview">
 </div>
 
+## 🚀 Techs
+
+The analysis is being performed with the following technologies:
+
+- [Python3](https://www.python.org/)
+- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
+
