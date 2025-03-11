@@ -33,7 +33,7 @@ def handle_audio_transcription(file_path: str, language: str = "pt-BR") -> str |
 
 if __name__ == "__main__":
     mp3_file_path = "./audio.mp3"
-    language = "pt-BR"
+    language = "en-US"
     transcription = handle_audio_transcription(mp3_file_path, language)
 
     if transcription:
