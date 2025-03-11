@@ -36,6 +36,41 @@ The analysis is being performed with the following technologies:
 - [Python3](https://www.python.org/)
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 
+## :boom: How to run the application?
+
+
+- With python3 & virtualenv already installed, we can activate the virtual environment by running:
+
+```shell
+  python3 -m venv venv
+  source venv/bin/activate
+```
+
+- We can install requirements.txt dependencies:
+
+```shell
+  pip install -r requirements.txt
+```
+
+- After defining the contents of the lists in the `audio.mp3` file and selecting the target language, as mentioned above:
+
+<div align="center">
+  <img src=".github/img/definitions.png" alt="Definitions">
+</div>
+
+
+ we can run:
+
+```shell
+  python src/handle.py
+```
+
+- After this, we will receive the transcription in the `transcription.txt` file at the root directory, as mentioned above:
+
+
+<div align="center">
+  <img src=".github/img/transcription-file-preview.png" alt="Definitions">
+</div>
 
 ### License
 
