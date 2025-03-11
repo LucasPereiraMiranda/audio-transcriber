@@ -18,3 +18,8 @@
   </a>
 </p>
 
+## 💻 Objectives
+
+A helper tool for transcribing speech to text using Speech Recognition.
+For analysis, we can input an MP3 file and receive the transcribed text in the target language.
+
