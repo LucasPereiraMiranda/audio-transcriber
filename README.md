@@ -23,3 +23,9 @@
 A helper tool for transcribing speech to text using Speech Recognition.
 For analysis, we can input an MP3 file and receive the transcribed text in the target language.
 
+### Execution preview:
+
+<div align="center">
+  <img src=".github/img/execution-preview.png" alt="Execution preview">
+</div>
+
